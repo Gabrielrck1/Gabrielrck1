@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gabrielrck1
+- 👀 I’m interested in programming,coding, gaming, android, and technology
+- 🌱 I’m currently learning html,css and js
+- 💞️ I’m looking to become internship at a company 
+- 📫 How to reach me : gabriel.rck1@gmail.com
